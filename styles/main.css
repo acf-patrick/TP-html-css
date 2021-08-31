@@ -118,9 +118,14 @@ aside h1
 	left: -69px;
 }
 
+.links
+{
+    text-align: center;
+}
+
 .links a
 {
-    margin-right: 7px;
+    margin-right: 3px;
 }
 
 em
